@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<script>
+"use strict";
+
+let userName = prompt("Enter your Username", '')
+
+if (userName === 'Admin') {
+
+  let pass = prompt('Enter your Password?', '');
+
+  if (pass === 'TheMaster') {
+    alert( 'Welcome Admin!' );
+  } else if (pass === '' || pass === null) {
+    alert( 'Canceled' );
+  } else {
+    alert( 'Wrong password' );
+  }
+
+} if (userName === 'User1'){
+
+  let pass = prompt('Enter your Password?', '');
+
+  if (pass === 'TheUser1') {
+    alert( 'Welcome User 1' );
+  } else if (pass === '' || pass === null) {
+    alert( 'Canceled' );
+  } else {
+    alert( 'Wrong password' );
+  }
+
+} else if (userName === 'User2'){
+  let pass = prompt('Enter your Password?', '');
+
+  if (pass === 'TheUser2') {
+    alert( 'Welcome User 1' );
+  } else if (pass === '' || pass === null) {
+    alert( 'Canceled' );
+  } else {
+    alert( 'Wrong password' );
+  }
+
+  alert( 'Canceled' );
+} else {
+  alert( "Inncorrect Username" );
+}
+</script>
