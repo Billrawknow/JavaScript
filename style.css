@@ -25,6 +25,12 @@
     padding: 50px 60px 70px;
     text-align: center;
 }
+.form-box h1{
+    font-size: 30px;
+    margin-bottom: 60px;
+    color: #3c00a0;
+    position: relative;
+}
 
 
 
