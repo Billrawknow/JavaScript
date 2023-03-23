@@ -43,6 +43,15 @@
     transform: translateX(-50%);
 }
 
+.input-field{
+    background: #eaeaea;
+    margin: 15px 0;
+    border-radius: 3px;
+    display: flex;
+    align-items: center;
+
+}
+
 
 
 
