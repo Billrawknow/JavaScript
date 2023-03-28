@@ -108,7 +108,12 @@ signupBtn.onclick=function(){
   signupBtn.classList.remove("disable");
   signinBtn.classList.add("disable");
 }
-
+submitBtn.onclick=function(){
+  nameField.style.maxHeight="60px";
+  title.innerHTML="Submit";
+  signupBtn.classList.add("disable");
+  signinBtn.classList.add("disable");
+}
   </script>
 </body>
 </html>
