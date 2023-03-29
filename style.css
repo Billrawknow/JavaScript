@@ -46,9 +46,10 @@ body {
     font-family: 1.7rem;
     color: var(--text-color);
     margin-left: 4rem;
+    transition: 3s;
 }
 .navbar a:hover{
-    
+
 }
 
 .container{ 
