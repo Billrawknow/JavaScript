@@ -183,3 +183,7 @@ form p a{
 .home-content p {
     font-size: 1.6rem;
 }
+.social-media a {
+    display: inline-flex;
+    justify-content: center;
+}
