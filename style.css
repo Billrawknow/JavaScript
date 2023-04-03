@@ -46,8 +46,7 @@ section{
     font-weight: 600;
     cursor: default;
 }
-.navbar a
-{
+.navbar a {
     font-family: 1.7rem;
     color: var(--text-color);
     margin-left: 4rem;
