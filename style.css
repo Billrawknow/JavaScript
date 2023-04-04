@@ -198,4 +198,5 @@ form p a {
 }
 .social-media a:hoover {
     background: var(--main-color);
+    color: var(--second-bg-color);
 }
