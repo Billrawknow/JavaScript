@@ -228,5 +228,7 @@ span {
 }
 .about {
    display: flex;
-    
+   justify-content: center;
+   
+
 }
