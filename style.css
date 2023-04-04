@@ -227,5 +227,6 @@ span {
 
 }
 .about {
+   display: flex;
     
 }
