@@ -196,3 +196,6 @@ form p a {
     margin: 3rem 1.5rem 3rem 0;
 
 }
+.social-media a:hoover {
+    background: var(--main-color);
+}
