@@ -244,5 +244,6 @@ span {
    font-size: 4.5rem;
 }
 .abou-content {
-    
+    text-align: left;
+    line-height: 1.2;
 }
