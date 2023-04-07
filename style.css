@@ -259,5 +259,5 @@ span {
 
 }
 .services-container {
-    
+    display: flex;
 }
