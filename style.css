@@ -269,6 +269,8 @@ span {
     background-color: var(--second-bg-color);
     padding: 3rem 2rem 4rem;
     border: 2rem;
-    
+    text-align: center;
+    border: 2rem solid var(--bg-color);
+
 
 }
