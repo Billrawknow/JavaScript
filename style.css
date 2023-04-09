@@ -265,6 +265,7 @@ span {
     flex-wrap: wrap;
     gap: 2rem;
 }
+
 .services-container.services-box {
     flex: 1 1 30rem;
     background-color: var(--second-bg-color);
