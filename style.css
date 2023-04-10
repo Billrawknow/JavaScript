@@ -277,7 +277,7 @@ span {
 
 }
 .services-box i {
-    font-size: 10rem;
+    font-size: 7rem;
     color: var(--main-color);
 }
 
@@ -285,6 +285,6 @@ span {
     font-size: 3rem;
 }
 .services-box p {
-    font-size: 1.8rem;
+    font-size: 1.2rem;
     margin: 1rem 0 3rem;
 }
