@@ -296,3 +296,7 @@ transform: scale(1.02);
 .porfolio {
     background: var(--main-color);
 }
+.porfolio h2 {
+    margin-bottom: 4rem;
+}
+
