@@ -300,3 +300,8 @@ transform: scale(1.02);
     margin-bottom: 4rem;
 }
 
+.porfolio-container {
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    
+}
