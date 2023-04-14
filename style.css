@@ -334,3 +334,7 @@ transform: scale(1.02);
 .portfolio-layer h4 {
     font-size: 4rem;
 }
+.portfolio-layer p {
+    font-size: 1.8rem;
+    margin: .3rem 0 1rem;
+}
