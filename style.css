@@ -313,6 +313,7 @@ transform: scale(1.02);
     box-shadow: 0 0 1rem var(--bg-color);
     overflow: hidden;
     display: flex;
+    
 }
 .portfolio-box img {
     width: 100%;
@@ -330,6 +331,7 @@ transform: scale(1.02);
     flex-direction: column;
     text-align: center;
     padding: 0 4rem;
+    transform: translateY(100%);
 }
 .portfolio-layer h4 {
     font-size: 3rem;
