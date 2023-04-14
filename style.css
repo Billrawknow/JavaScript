@@ -348,4 +348,7 @@ transform: scale(1.02);
     border-radius: 50%;
 
 }
-p
+.portfolio-layer a i {
+    font-size: 2rem;
+    color: var(--second-bg-color);
+}
