@@ -373,5 +373,7 @@ transform: scale(1.02);
     margin-bottom: 3rem;
 }
 .contact form .input-box {
-    
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
 }
