@@ -394,3 +394,7 @@ transform: scale(1.02);
 .contact form textarea {
     resize: none;
 }
+.contact form .btn {
+margin-top: 2rem;
+cursor: pointer;
+}
