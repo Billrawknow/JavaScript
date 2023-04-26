@@ -7,7 +7,6 @@ window.onscroll = () => {
         let offset = sec.offsetTop - 150;
         let height = sec.offsetHeight;
         let id = sec.getAttribute('id');
-
         if (top >= offset && top < offset + height) {
             navLinks.forEach(links => {
                 links.classList.remove('active');
@@ -16,7 +15,6 @@ window.onscroll = () => {
         };
     });
     let header = document.querySelector('header');
-
-    header.classList.toggle('sticky', window.scrollY > 100);
+     header.classList.toggle('sticky', window.scrollY > 100);
     
 };
