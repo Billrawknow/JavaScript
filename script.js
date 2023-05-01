@@ -8,6 +8,7 @@ menuIcon.onclick = () => {
 };
 
 
+
 /*     scroll section active link         */
 
 let sections = document.querySelectorAll('section');
