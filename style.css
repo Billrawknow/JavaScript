@@ -539,6 +539,7 @@ cursor: pointer;
     .contact form .input-box input {
        width: 100%;
     }
+    
 }
 @media (max-width:365px) {
     .home-img img {
