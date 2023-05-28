@@ -171,8 +171,14 @@ form p a {
     justify-content: center;
     align-items: center;
 }
- .home-img img {
+ .photo-img img {
     width: 35vw;
+    border-radius: 20px;
+    opacity: 0.7;
+    transition: opacity 0.5s ease;
+ }
+ .photo-img img:hover{
+    opacity: 1;
  }
 .home-content h3 {
     font-size: 3.2rem;
@@ -241,10 +247,10 @@ span {
 
 
 }
-.about-img img {
+/* .about-img img {
     width: 35vw;
 
-}
+} */
 .heading {
    text-align: center; 
    font-size: 4.5rem;
